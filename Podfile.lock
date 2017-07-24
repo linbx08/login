@@ -1,0 +1,37 @@
+PODS:
+  - Alamofire (4.5.0)
+  - KRProgressHUD (2.0.0)
+  - Moya/Core (8.0.5):
+    - Alamofire (~> 4.1)
+    - Result (~> 3.0)
+  - Moya/RxSwift (8.0.5):
+    - Moya/Core
+    - RxSwift (~> 3.0)
+  - ObjectMapper (2.2.8)
+  - Result (3.2.3)
+  - RxCocoa (3.5.0):
+    - RxSwift (~> 3.4)
+  - RxSwift (3.5.0)
+  - Validator (2.1.1)
+
+DEPENDENCIES:
+  - KRProgressHUD
+  - Moya/RxSwift (~> 8.0.5)
+  - ObjectMapper (~> 2.2.8)
+  - RxCocoa (~> 3.5.0)
+  - RxSwift (~> 3.5.0)
+  - Validator
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  KRProgressHUD: fa77b02194e532579579d5f0953282dab1c961c5
+  Moya: c37eec09a098ba9991b5a963b291fc5704bdb9ef
+  ObjectMapper: 3d571bb5af471c779e1160828cd9ad5c4ef90958
+  Result: 128640a6347e8d2ae48b142556739a2d13f90ce6
+  RxCocoa: a0a09f45d0e5b48ecb6a4a7b4b4c89c88d3f633f
+  RxSwift: 18ee9d78b45edb3b0b7e79916b47a116e6dbc842
+  Validator: b1793fbfd0046097551d0edd18e2c30792d69ef5
+
+PODFILE CHECKSUM: 671dd97cf2e2ef1de5bf5510942c824acf38b0c4
+
+COCOAPODS: 1.2.1
